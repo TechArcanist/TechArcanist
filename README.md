@@ -13,7 +13,7 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
       <h3>Flipkart Robotics Grid 6.0 🏷️🤖</h3>
       <p>This project delivers a comprehensive autonomous system for warehouse management, integrating <strong>AI, IoT, and automation</strong>. It streamlines multiple aspects of smart warehousing, making processes more efficient.</p>
       <ul>
-        <li><strong>Fruit Freshness Detection:</strong> Utilizes machine learning to determine the freshness of fruits through image classification 🍎🍌</li>
+        <li><strong>Fruit Freshness Detection:</strong> Utilizes machine learning to determine the freshness of fruits through temperature, humidity, texture and image classification 🍎🍌</li>
         <li><strong>Product Detection and IR Counting:</strong> Identifies and counts products in real-time using infrared sensors</li>
         <li><strong>OCR Extraction:</strong> Extracts critical product information such as expiry dates, labels, manufacturing details, and prices</li>
         <li><strong>Brand and Product Name Recognition:</strong> Uses OCR to read and verify brand names and product labels</li>
