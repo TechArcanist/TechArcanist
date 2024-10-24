@@ -11,22 +11,23 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <h3>Flipkart Robotics Grid 6.0 🏷️🤖</h3>
-      <p>A comprehensive autonomous system for warehouse management, integrating <strong>AI, IoT, and automation</strong>. The project covers multiple aspects of smart warehousing, including:</p>
+      <p>This project delivers a comprehensive autonomous system for warehouse management, integrating <strong>AI, IoT, and automation</strong>. It streamlines multiple aspects of smart warehousing, making processes more efficient.</p>
       <ul>
-        <li>Fruit Freshness Detection 🍎🍌</li>
-        <li>Product Detection and IR Counting</li>
-        <li>OCR Extraction of Expiry Date, Label, Mfg, and Price</li>
-        <li>OCR Extraction of Brand Name and Product Name</li>
+        <li><strong>Fruit Freshness Detection:</strong> Utilizes machine learning to determine the freshness of fruits through image classification 🍎🍌</li>
+        <li><strong>Product Detection and IR Counting:</strong> Identifies and counts products in real-time using infrared sensors</li>
+        <li><strong>OCR Extraction:</strong> Extracts critical product information such as expiry dates, labels, manufacturing details, and prices</li>
+        <li><strong>Brand and Product Name Recognition:</strong> Uses OCR to read and verify brand names and product labels</li>
       </ul>
-      <p>Each task involves advanced machine learning models, hardware integration, and real-time automation to optimize warehouse efficiency.</p>
+      <p>The system employs machine learning models, hardware integration, and real-time automation to optimize warehouse efficiency, reducing manual intervention and errors.</p>
       <ul>
-        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32, Keras....................</li>
-        <li><strong>Highlights</strong>:
+        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32, Keras</li>
+        <li><strong>Components</strong>: Cameras, IR Sensors, OCR Modules, Arduino, ESP32, and more</li>
+        <li><strong>Highlights</strong>: 
           <ul>
-            <li>AI-powered fruit freshness detection using image classification</li>
-            <li>Real-time product detection integrated with IR counting</li>
-            <li>Efficient OCR systems for extracting key product details</li>
-            <li>Seamless combination of software models and hardware devices</li>
+            <li>AI-powered image classification for assessing fruit freshness</li>
+            <li>Efficient real-time product detection and counting</li>
+            <li>Robust OCR systems for extracting key product details</li>
+            <li>Seamless integration of software models with hardware devices</li>
           </ul>
         </li>
       </ul>
@@ -38,6 +39,7 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
     </td>
   </tr>
 </table>
+
 
 
 <table>
