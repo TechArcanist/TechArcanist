@@ -28,6 +28,7 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
             <li>Efficient real-time product detection and counting</li>
             <li>Robust OCR systems for extracting key product details</li>
             <li>Seamless integration of software models with hardware devices</li>
+            <li>Can be used in Warehouse to automate the process</li>
           </ul>
         </li>
       </ul>
@@ -68,28 +69,27 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
   </tr>
 </table>
 
-
 <table>
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <h3>HeatData-Logger 🌡️📊</h3>
-      <p>A robust solution for contactless temperature measurement and automated data logging. This project offers a seamless way to monitor temperature data in real-time, ensuring easy access and analysis.</p>
+      <p>This project provides a contactless temperature measurement and data logging solution, integrating <strong>real-time monitoring and automation</strong> for efficient data management.</p>
       <ul>
-        <li><strong>Contactless Temperature Measurement:</strong> Accurate temperature readings without physical contact.</li>
-        <li><strong>Automated Data Logging:</strong> Directly uploads temperature data to a spreadsheet.</li>
-        <li><strong>Real-Time Updates:</strong> Instantaneous temperature readings and updates.</li>
-        <li><strong>User-Friendly Interface:</strong> Easy access and analysis of temperature data.</li>
+        <li><strong>Contactless Temperature Measurement:</strong> Accurate readings without any physical contact</li>
+        <li><strong>Automated Data Logging:</strong> Automatically logs temperature data to a connected spreadsheet for easy tracking</li>
+        <li><strong>Real-Time Updates:</strong> Offers instantaneous temperature readings with immediate data updates</li>
+        <li><strong>User-Friendly Interface:</strong> Simple access and analysis of logged temperature data</li>
       </ul>
-      <p>The contactless temperature sensor captures temperature data, processed by the ESP32 microcontroller, and uploads it to a Google Sheet for real-time monitoring and analysis.</p>
+      <p>The system captures data using a contactless sensor, processes it through a microcontroller, and uploads it to a spreadsheet. Users can monitor and analyze temperature data in real-time via the spreadsheet interface.</p>
       <ul>
-        <li><strong>Technologies:</strong> ESP32, Arduino IDE, Google Sheets API</li>
-        <li><strong>Components:</strong> Contactless Temperature Sensor (e.g., MLX90614), ESP32, Jumper Wires, Power Supply</li>
+        <li><strong>Components</strong>: Contactless Temperature Sensor (e.g., MLX90614), ESP32, Google Sheets API, Jumper Wires, Power Supply</li>
+        <li><strong>Technologies</strong>: ESP32, Google Sheets Integration, Arduino IDE</li>
       </ul>
       <a href="https://github.com/TechArcanist/HeatData-Logger"><strong>🔗 Explore the Project</strong></a>
     </td>
     <td style="width: 30%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/5dc26d39-ae7d-49db-af1f-029e2294c817" alt="Circuit Diagram" style="width: 80%; margin-bottom: 10px;"/><br/>
-      <img src="https://github.com/user-attachments/assets/239a7503-aa46-47ab-99ed-3a9538af1244" alt="Video Demonstration" style="width: 80%;"/>
+      <img src="https://github.com/user-attachments/assets/d034481c-3c60-4ec5-850a-f0046f3b0c38" alt="Image 1" style="width: 80%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/user-attachments/assets/1dd54247-5191-4131-a435-ab562c92fa34" alt="Image 2" style="width: 80%;"/>
     </td>
   </tr>
 </table>
@@ -103,23 +103,18 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
 ![NodeMCU](https://img.shields.io/badge/-NodeMCU-323232?style=flat-square&logo=esp8266&logoColor=white)
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-
+![ESP32](https://img.shields.io/badge/-ESP32-323232?style=flat-square&logo=esp32&logoColor=white)
+![Google Sheets](https://img.shields.io/badge/-Google%20Sheets-0F9D58?style=flat-square&logo=google-sheets&logoColor=white)
+![Blynk](https://img.shields.io/badge/-Blynk-5F9EA0?style=flat-square&logo=iot&logoColor=white)
+![PCB Designing](https://img.shields.io/badge/-PCB%20Designing-0A74DA?style=flat-square&logo=pcb&logoColor=white)
+![EasyEDA](https://img.shields.io/badge/-EasyEDA-2E8B57?style=flat-square&logo=easyeda&logoColor=white)
 </div>
 
 ---
 
-## 📬 Let's Connect
-<div align="center">
-  <a href="https://www.linkedin.com/in/YourLinkedInProfile">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin"/>
-  </a>
-  <a href="https://github.com/TechArcanist">
-    <img src="https://img.shields.io/badge/GitHub-Profile-black?style=for-the-badge&logo=github"/>
-  </a>
-  <a href="https://twitter.com/YourTwitterHandle">
-    <img src="https://img.shields.io/badge/Twitter-Follow-blue?style=for-the-badge&logo=twitter"/>
-  </a>
-</div>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://www.instagram.com/tech_arcanist/) 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavitra-sahu-554104228/) 
 
 ---
 ⭐ **Feel free to explore my repositories, contribute, and connect with me! Let's innovate together.** 
