@@ -20,7 +20,7 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
       </ul>
       <p>Each task involves advanced machine learning models, hardware integration, and real-time automation to optimize warehouse efficiency.</p>
       <ul>
-        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32, Keras</li>
+        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32, Keras....................</li>
         <li><strong>Highlights</strong>:
           <ul>
             <li>AI-powered fruit freshness detection using image classification</li>
@@ -121,66 +121,3 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
 
 ---
 ⭐ **Feel free to explore my repositories, contribute, and connect with me! Let's innovate together.** 
-
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
-  <tr>
-    <td style="width: 70%; vertical-align: top; padding: 15px;">
-      <h3 style="text-align: center;">Flipkart Robotics Grid 6.0 🏷️🤖</h3>
-      <p>A comprehensive autonomous system for warehouse management, integrating <strong>AI, IoT, and automation</strong>. The project covers multiple aspects of smart warehousing, including:</p>
-      <ul>
-        <li>Fruit Freshness Detection 🍎🍌</li>
-        <li>Product Detection and IR Counting</li>
-        <li>OCR Extraction of Expiry Date, Label, Mfg, and Price</li>
-        <li>OCR Extraction of Brand Name and Product Name</li>
-      </ul>
-      <p>Each task involves advanced machine learning models, hardware integration, and real-time automation to optimize warehouse efficiency.</p>
-      <ul>
-        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32</li>
-        <li><strong>Highlights</strong>:
-          <ul>
-            <li>AI-powered fruit freshness detection using image classification</li>
-            <li>Real-time product detection integrated with IR counting</li>
-            <li>Efficient OCR systems for extracting key product details</li>
-            <li>Seamless combination of software models and hardware devices</li>
-          </ul>
-        </li>
-      </ul>
-      <a href="https://github.com/TechArcanist/Flipkart_Robotics_Grid_6.0" style="display: block; padding: 10px 15px; background-color: #0056b3; color: #fff; text-decoration: none; border-radius: 5px; text-align: center;">
-        <strong>🔗 Explore the Project</strong>
-      </a>
-    </td>
-    <td style="width: 30%; text-align: center; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/69857689-682a-4e6c-886b-7a3ab97027c4" alt="Image 1" style="width: 100px; height: 100px; object-fit: cover; margin-bottom: 10px; border: 1px solid #ccc; padding: 5px;"/><br/>
-      <img src="https://github.com/user-attachments/assets/e4c68bae-0877-4923-ae48-d0cb716f0e81" alt="Image 2" style="width: 100px; height: 100px; object-fit: cover; border: 1px solid #ccc; padding: 5px;"/>
-    </td>
-  </tr>
-</table>
-
-<table style="width: 100%; border-spacing: 0; border-collapse: collapse;">
-  <tr>
-    <td style="width: 70%; vertical-align: top; padding: 15px;">
-      <h3 style="text-align: center;">🌱 Plant and Weather Monitoring System 🌦️</h3>
-      <p>This project provides an automated system for monitoring plant health and weather conditions using various sensors, making plant care efficient and hassle-free.</p>
-      <ul>
-        <li><strong>Capacitive and Resistive Soil Moisture Sensors:</strong> Monitor soil moisture levels for efficient watering.</li>
-        <li><strong>DHT Sensor:</strong> Tracks temperature and humidity around plants.</li>
-        <li><strong>Rain Sensor:</strong> Detects rainfall to prevent overwatering.</li>
-        <li><strong>LCD Display:</strong> Provides real-time data visualization.</li>
-        <li><strong>Automated Watering:</strong> Waters plants based on sensor readings.</li>
-      </ul>
-      <p>The ESP32 processes data from the sensors, and when soil moisture drops below a set threshold without rain, the system activates the water pump. Sensor data is displayed on an LCD, and remote monitoring is possible via Blynk IoT.</p>
-      <ul>
-        <li><strong>Technologies</strong>: ESP32, Arduino IDE, Blynk IoT</li>
-        <li><strong>Components</strong>: Soil Moisture Sensors, DHT11/DHT22, Rain Sensor, LCD, Water Pump, Relay Module</li>
-      </ul>
-      <a href="https://github.com/TechArcanist/Plant-and-Weather-Monitoring-System" style="display: block; padding: 10px 15px; background-color: #28a745; color: #fff; text-decoration: none; border-radius: 5px; text-align: center;">
-        <strong>🔗 Explore the Project</strong>
-      </a>
-    </td>
-    <td style="width: 30%; text-align: center; vertical-align: top; padding: 15px;">
-      <img src="https://github.com/user-attachments/assets/a0443055-cf97-4629-8914-bc041db0d0d4" alt="Image 1" style="width: 100px; height: 100px; object-fit: cover; margin-bottom: 10px; border: 1px solid #ccc; padding: 5px;"/><br/>
-      <img src="https://github.com/user-attachments/assets/efe56542-9e70-4611-9ff9-d8733d9e7632" alt="Image 2" style="width: 100px; height: 100px; object-fit: cover; border: 1px solid #ccc; padding: 5px;"/>
-    </td>
-  </tr>
-</table>
-
