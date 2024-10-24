@@ -20,7 +20,7 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
       </ul>
       <p>Each task involves advanced machine learning models, hardware integration, and real-time automation to optimize warehouse efficiency.</p>
       <ul>
-        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32</li>
+        <li><strong>Technologies</strong>: Python, OpenCV, TensorFlow, YOLO, Arduino, ESP32, Keras</li>
         <li><strong>Highlights</strong>:
           <ul>
             <li>AI-powered fruit freshness detection using image classification</li>
