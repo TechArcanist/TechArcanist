@@ -39,12 +39,6 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
     </td>
   </tr>
 </table>
-![379191197-69857689-682a-4e6c-886b-7a3ab97027c4](https://github.com/user-attachments/assets/ae97864f-f701-49c3-9b60-6ccecd847aaa)
-![379192256-e4c68bae-0877-4923-ae48-d0cb716f0e81](https://github.com/user-attachments/assets/1102d23f-0e47-41b0-b2f3-a405f30f9cc9)
-![379194516-a0443055-cf97-4629-8914-bc041db0d0d4](https://github.com/user-attachments/assets/0b980470-020b-4ff8-86eb-0e31242746b6)
-![379194466-efe56542-9e70-4611-9ff9-d8733d9e7632](https://github.com/user-attachments/assets/8b0dd96d-630d-4c66-8f49-61de698f0d5c)
-
-
 
 <table>
   <tr>
@@ -66,8 +60,8 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
       <a href="https://github.com/TechArcanist/Plant-and-Weather-Monitoring-System"><strong>🔗 Explore the Project</strong></a>
     </td>
     <td style="width: 30%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/a0443055-cf97-4629-8914-bc041db0d0d4" alt="Image 1" style="width: 80%; margin-bottom: 10px;"/><br/>
-      <img src="https://github.com/user-attachments/assets/efe56542-9e70-4611-9ff9-d8733d9e7632" alt="Image 2" style="width: 80%;"/>
+      <img src="https://github.com/user-attachments/assets/0b980470-020b-4ff8-86eb-0e31242746b6" alt="Image 1" style="width: 80%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/user-attachments/assets/8b0dd96d-630d-4c66-8f49-61de698f0d5c" alt="Image 2" style="width: 80%;"/>
     </td>
   </tr>
 </table>
