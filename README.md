@@ -95,30 +95,28 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
   <tr>
     <td style="width: 70%; vertical-align: top;">
       <h3>🔒 5-Tier Secure Lock System</h3>
-      <p>This project is a multi-layered security system that employs various authentication mechanisms to ensure high-level protection. It uses a solenoid lock that activates only after passing through all security layers.</p>
+      <p>This project is a multi-layered security system that combines various authentication methods for enhanced protection. It controls a solenoid lock that only activates after passing through all security layers.</p>
       <ul>
-        <li><strong>Solenoid Lock Mechanism:</strong> Unlocks after all security layers are cleared.</li>
-        <li><strong>Passcode Authentication:</strong> First layer requiring a correct passcode.</li>
-        <li><strong>RFID Authentication:</strong> Proximity-based second layer using RFID.</li>
-        <li><strong>Fingerprint Authentication:</strong> Biometric third layer with a fingerprint scan.</li>
-        <li><strong>OTP Layer:</strong> Fourth layer sending an OTP to the user’s registered phone.</li>
-        <li><strong>Google Authenticator OTP:</strong> Final layer requiring a time-based OTP from Google Authenticator.</li>
-        <li><strong>Admin Mode:</strong> Special mode for admin to bypass standard authentication layers using a direct passcode and fingerprint entry.</li>
-        <li><strong>Admin Fingerprint Management:</strong> Allows admin to add fingerprints for future access.</li>
+        <li><strong>Passcode Authentication:</strong> First layer requiring a numeric code entry.</li>
+        <li><strong>RFID Authentication:</strong> Second layer using proximity-based RFID verification.</li>
+        <li><strong>Fingerprint Authentication:</strong> Biometric third layer via fingerprint scanning.</li>
+        <li><strong>OTP Layer:</strong> Fourth layer where an OTP is sent to the user’s phone.</li>
+        <li><strong>Google Authenticator OTP:</strong> Final layer using a time-based OTP for maximum security.</li>
       </ul>
-      <p>The ESP32 controls the locking sequence, utilizing components like the solenoid lock, fingerprint sensor, and RFID reader, while integrating OTP communication via Wi-Fi.</p>
+      <p>The ESP32 microcontroller manages each authentication step, interfacing with components like the solenoid lock, RFID reader, and fingerprint sensor for biometric authentication, while also handling OTP communications over Wi-Fi</p>
       <ul>
-        <li><strong>Technologies Used</strong>: ESP32, Google Authenticator API, C, Embedded C</li>
-        <li><strong>Components</strong>: Solenoid Lock, RFID Reader, Fingerprint Sensor, Keypad, Relay, OLED/LCD Display, Wi-Fi Module</li>
+        <li><strong>Technologies:</strong> ESP32, Google Authenticator API</li>
+        <li><strong>Components:</strong> Solenoid Lock, RFID Reader, Fingerprint Sensor, Keypad, Relay, OLED/LCD Display</li>
       </ul>
       <a href="https://github.com/TechArcanist/5-Tier-Secure-Lock-System"><strong>🔗 Explore the Project</strong></a>
     </td>
     <td style="width: 30%; text-align: center;">
-      <img src="https://github.com/user-attachments/assets/dbb629f0-3412-4d2b-863e-770437f91eb6" alt="Circuit Diagram" style="width: 80%; margin-bottom: 10px;"/><br/>
-      <img src="https://github.com/user-attachments/assets/32fb810b-d367-48d1-895f-631e7ee561e7" alt="Project Video Thumbnail" style="width: 80%;"/>
+      <img src="https://github.com/user-attachments/assets/145e6624-5cb7-4171-bcf1-f1d10c0f038f" alt="Circuit Diagram" style="width: 80%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/user-attachments/assets/bf6ad13b-8532-4b1f-aec7-2df05954b4ca" alt="Project Video Thumbnail" style="width: 80%;"/>
     </td>
   </tr>
 </table>
+
 
 
 
