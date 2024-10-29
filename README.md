@@ -91,6 +91,37 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
   </tr>
 </table>
 
+<table>
+  <tr>
+    <td style="width: 70%; vertical-align: top;">
+      <h3>🔒 5-Tier Secure Lock System</h3>
+      <p>This project is a multi-layered security system that employs various authentication mechanisms to ensure high-level protection. It uses a solenoid lock that activates only after passing through all security layers.</p>
+      <ul>
+        <li><strong>Solenoid Lock Mechanism:</strong> Unlocks after all security layers are cleared.</li>
+        <li><strong>Passcode Authentication:</strong> First layer requiring a correct passcode.</li>
+        <li><strong>RFID Authentication:</strong> Proximity-based second layer using RFID.</li>
+        <li><strong>Fingerprint Authentication:</strong> Biometric third layer with a fingerprint scan.</li>
+        <li><strong>OTP Layer:</strong> Fourth layer sending an OTP to the user’s registered phone.</li>
+        <li><strong>Google Authenticator OTP:</strong> Final layer requiring a time-based OTP from Google Authenticator.</li>
+        <li><strong>Admin Mode:</strong> Special mode for admin to bypass standard authentication layers using a direct passcode and fingerprint entry.</li>
+        <li><strong>Admin Fingerprint Management:</strong> Allows admin to add fingerprints for future access.</li>
+      </ul>
+      <p>The ESP32 controls the locking sequence, utilizing components like the solenoid lock, fingerprint sensor, and RFID reader, while integrating OTP communication via Wi-Fi.</p>
+      <ul>
+        <li><strong>Technologies Used</strong>: ESP32, Google Authenticator API, C, Embedded C</li>
+        <li><strong>Components</strong>: Solenoid Lock, RFID Reader, Fingerprint Sensor, Keypad, Relay, OLED/LCD Display, Wi-Fi Module</li>
+      </ul>
+      <a href="https://github.com/TechArcanist/5-Tier-Secure-Lock-System"><strong>🔗 Explore the Project</strong></a>
+    </td>
+    <td style="width: 30%; text-align: center;">
+      <img src="https://github.com/user-attachments/assets/dbb629f0-3412-4d2b-863e-770437f91eb6" alt="Circuit Diagram" style="width: 80%; margin-bottom: 10px;"/><br/>
+      <img src="https://github.com/user-attachments/assets/32fb810b-d367-48d1-895f-631e7ee561e7" alt="Project Video Thumbnail" style="width: 80%;"/>
+    </td>
+  </tr>
+</table>
+
+
+
 ## 🧑‍💻 Tech Stack
 <div align="center">
 
