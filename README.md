@@ -143,4 +143,3 @@ I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My k
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavitra-sahu-554104228/) 
 
 ---
-⭐ **Feel free to explore my repositories, contribute, and connect with me! Let's innovate together.** 
