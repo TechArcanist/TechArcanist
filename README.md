@@ -3,7 +3,7 @@
 </div>
 
 # 💫 About Me:
-I am Lavitra, a Computer Science undergraduate specializing in IoT at PSIT. My key interests lie in developing innovative IoT projects, Machine Learning projects and continuously expanding my knowledge in new and emerging fields. I am currently focused on mastering Flutter and Dart, alongside working on projects using the Jetson Nano.<br><br>- 🔭 **Current Focus:** IoT development and Flutter applications.<br>- 🌱 **Currently Learning:** Flutter, Dart, ML and advanced IoT technologies.<br>- 💬 **Reach out for:** IoT projects, 3D printing, and tech innovations.<br>- ⚡ **Quick Fact:** I am driven by a passion for integrating hardware and software to solve real-world challenges.<br>
+COO at Raman Research and Innovation Pvt. Ltd.
 ## 🏆 Featured Projects
 
 <table>
