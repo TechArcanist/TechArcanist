@@ -4,6 +4,7 @@
 
 # 💫 About Me:
 COO at Raman Research and Innovation Pvt. Ltd.
+https://www.instagram.com/tech_arcanist/
 ## 🏆 Featured Projects
 
 <table>
