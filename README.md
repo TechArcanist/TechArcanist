@@ -1,7 +1,8 @@
 <div align="center">
   <img src="https://github.com/user-attachments/assets/e85bd981-9049-406b-91ec-411ef75ff823" alt="Lavitra Banner" width="1000"/>
 </div>
-https://www.instagram.com/tech_arcanist/
+
+
 ## 🏆 Featured Projects
 
 <table>
